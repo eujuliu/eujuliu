@@ -1,6 +1,6 @@
-## Hi, i'm Julio 👋. I'm a **Web Developer** (Unemployed)
+## Hi, i'm Julio 👋. I'm a **Web Developer**
 
-I'm a Web Developer and currently, i don't have a job but i'm search for one, i have knowledges in HTML, CSS, JavaSript and TypeSript. I can do projects with React.js, Next.js, React Native and i do stylize this projects with Tailwind, Sass, Styled-components and/or CSS Modules.
+I'm a Front-end Developer, i have knowledges in HTML, CSS, JavaScript and TypeScript, and with this knowledges i can develope website with React.js and/or Next.js or create native application for IOS and Android with React Native. I can too style websites/apps with SASS, Styled-components and/or CSS Modules.
 
 #### 🛠 Tools
  - HTML
@@ -8,7 +8,7 @@ I'm a Web Developer and currently, i don't have a job but i'm search for one, i 
  - Sass
  - JavaScript
  - TypeScript
- - React.js (with Redux)
+ - React.js
  - Next.js
  - React Native
 
