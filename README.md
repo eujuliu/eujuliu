@@ -1,57 +1,15 @@
-# Hi, i'm Julio 👋.
+## I'm Julio 🖐
 
-I'm a software developer, since i was a kid i'm fissure in technology and in resolve problems, i started to programming in 2019, since then i continuous learn about. Currently i can create Websites, Native Aplications for Android and IOS e API's REST.
+Hello, </br>
+I'm Computer System Analysis student, since I'm a kid I'm fissured for technology and solve problems, I too like nature, because the pure air of the nature inspire me. In my free time I like to seat at my backyard and take a nap. Every day I study new things about techlogy, and other things that I'm interested.
 
-<table>
-  <tr>
-    <th>Experient</th>
-    <th>Learning</th>
-    <th>Interest</th>
-  </tr>
- 
-  <tr>
-   <td align="center">
-     <img src="https://img.shields.io/badge/-HTML-161b22?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML">
-     <img src="https://img.shields.io/badge/-CSS-161b22?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS">
-   </td>
-   <td align="center">
-     <img src="https://img.shields.io/badge/-JEST-161b22?logo=jest&logoColor=C21325&style=for-the-badge&logoWidth=30" alt="JEST">
-     <img src="https://img.shields.io/badge/-NodeJS-161b22?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NodeJS">
-   </td>
-   <td align="center">
-      <img src="https://img.shields.io/badge/-Docker-161b22?logo=docker&logoColor=2496ED&style=for-the-badge&logoWidth=30" alt="TypeScript"> 
-      <img src="https://img.shields.io/badge/-Rust-161b22?logo=rust&logoColor=ff7043&style=for-the-badge&logoWidth=30" alt="TypeScript"> 
-   </td>
-  </tr>
-  
-  <tr>
-   <td align="center">
-     <img src="https://img.shields.io/badge/-JavaScript-0d1117?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JavaScript"> 
-     <img src="https://img.shields.io/badge/-TypeScript-0d1117?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="TypeScript"> 
-   </td>
-   <td align="center">
-     <img src="https://img.shields.io/badge/-PostgreSQL-0d1117?logo=postgresql&logoColor=4169E1&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
-     <img src="https://img.shields.io/badge/-MongoDB-0d1117?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MongoDB">
-   </td>
-   <td align="center">
-     <img src="https://img.shields.io/badge/-GraphQL-0d1117?logo=graphql&logoColor=E10098&style=for-the-badge&logoWidth=30" alt="PostgreSQL">
-   </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-React-161b22?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React.js"> 
-      <img src="https://img.shields.io/badge/-React Native-161b22?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="React Native">
-    </td>
-  </tr>
-</table>
+With my currently knowledges I can develop JavaScript applications, for example build user interfaces based on UI components with React.js or Next.js for web applications with server-side rendering and generating static websites and for Android & IOS I can develop native applications with React Native. I'm currently learning about Backend, but I can do basic APIs with Node.js and integrate this APIs with MongoDB and PostgreSQL database.
 
-<p align="center">
-    
-   <td align="center"></td>
-   
-</p>
+All of my knowledges: </br>
+HTML, CSS (SASS, styled-components, CSS Modules), JavaScript, TypeScript, React.js, Next.js, React Native, Node.js, REST API, MongoDB, SQL (PostgreSQL)
 
-Email: [jjuliomarttins22@gmail.com](mailto:jjuliomarttins22@gmail.com)
+### Contact 📱
+Email: juliomarttins5@gmail.com </br>
 
-Twitter: [@eujuliu_](https://twitter.com/eujuliu_) <br />
-LinkedIn: [@jjuliomarttins](https://www.linkedin.com/in/jjuliomarttins/)
+Twitter: [@eujuliu_](https://twitter.com/eujuliu_) </br>
+Linkedin: [@jjuliomarttins](https://www.linkedin.com/in/jjuliomarttins/)
