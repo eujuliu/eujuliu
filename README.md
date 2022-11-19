@@ -1,8 +1,8 @@
 ## Hello, I'm Julio 🖐
 
-I'm Computer System Analysis student, since I'm a kid I'm fissured for technology and solve problems, I too like nature, because the pure air of the nature inspire me. In my free time I like to seat at my backyard and take a nap. Every day I study new things about techlogy, and other things that I'm interested.
+Since I was a child, I have been passionate about technology and problem solving, and these were some of the reasons why in 2019 I started studying programming, most of my knowledge came through free content on YouTube and websites spread across the internet, but despite having started in 2019 my first personal project was only developed in 2021, since I started programming I try to learn new things daily.
 
-My main knowledges is in develop JavaScript/TypeScript applications, I can build user interfaces with React.js or Next.js for web applications with server-side rendering and generating static websites and for Android & IOS I can develop native applications with React Native. In the Backend I can develop APIs with Node.js and connect databases SQL and NoSQL
+My main skills are in developing JavaScript/TypeScript applications, I can build user interfaces with ReactJS or web applications with server-side rendering and generation of static websites with NextJS and for Android and IOS I can develop native applications with React Native. In the Backend I can create REST APIs, with Node.js and Express.js and connect to relational databases using some ORM or SQL, and also connect to NoSQL databases
 
 ### All of my knowledges 👨‍💻
 
