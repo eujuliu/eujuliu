@@ -13,3 +13,6 @@ Leadership & Teamwork: I value collaboration and have successfully led cross-fun
 Continuous Learner: A self-taught programmer, I constantly explore new technologies and refine my skills. From JavaScript to Python and SQL, I'm always ready for the next challenge.
 
 I'm motivated by opportunities to innovate, solve challenging problems, and build systems that make a difference. Let’s connect and create something great together!
+
+## Contact
+- [Linkedin](https://www.linkedin.com/in/ojuliomartins/)
